@@ -1,22 +1,24 @@
-# Title: osticket-prereqs
-## This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
+<h1>Hi, I'm David, an <a href="https://www.linkedin.com/in/dtan90">IT Professional</a>☺</h1>
 
-## Video Demonstration:
-### 
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-## Environments and Technologies Used:
-1. Microsoft Azure (Virtual Machines/Compute)
-2. Remote Desktop
-3. Internet Information Services (IIS)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-## Operating Systems Used:
-1. Windows 10 (21H2)
+<h2>🤳Connect with me:</h2>
 
-## List of Prerequisites:
-1.
-2.
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-## Installation Steps w/ Screenshots:
+[twitter]: https://twitter.com/Josh
+[instagram]: https://www.instagram.com/Josh
+[linkedin]: https://linkedin.com/in/Josh
 
 
 
