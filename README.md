@@ -1,4 +1,4 @@
-# Title: Information Technology Projects
+# Title: osticket-prereqs
 ## This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
 
 ## Video Demonstration:
